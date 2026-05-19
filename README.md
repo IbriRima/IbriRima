@@ -1,6 +1,6 @@
 ## Hello 👋
 
-# 🚀 AI Engineer | Data Scientist
+# 🚀 AI Engineer
 I’m an AI Engineer with hands-on experience shipping production-ready NLP, agent-based, and RAG systems. Known for independent problem solving, project ownership, and impact in fast-paced real-world settings.
 
 ---
